@@ -34,3 +34,32 @@ nav>div{
 p{
     padding-top : .2rem;
 }
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+.margin-auto{
+    margin: 0 auto;
+}
+
+main{
+    margin-top: 2rem;
+    margin-left: 1.5rem;
+   
+}
+
+main>div{
+    margin-top: 1rem;
+    margin-left: .5rem;
+    
+}
+
+.absolute{
+    position: absolute;
+}
+
+.relative{
+    position: relative;
+    bottom: 30px;
+}
