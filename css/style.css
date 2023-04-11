@@ -4,7 +4,33 @@
     box-sizing: border-box;
 }
 
+
 body{
+    color: white;
     background-color: black;
-    width: 100%;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-end{
+    justify-content: flex-end;
+}
+
+.background-grey{
+    background-color: #898484
+}
+
+nav>div{
+    margin-left: 0.5rem;
+   
+}
+
+#icona-espansione{
+    width: 2rem;
+}
+
+p{
+    padding-top : .2rem;
 }
